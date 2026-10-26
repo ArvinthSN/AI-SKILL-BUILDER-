@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "skills": {
+    "auto-commit-guard": {
+      "source": "ArvinthSN/Agent-Skills",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/auto-commit-guard/SKILL.md",
+      "computedHash": "6d333a30dc0efec8a2dec1dd29665b3158b3040285911362ba6750815fa80e1d"
+    },
+    "change-guard": {
+      "source": "ArvinthSN/Agent-Skills",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/change-guard/SKILL.md",
+      "computedHash": "5a1953b3baceced0d430bdb88c6e4d70994fd24fb897894a08aec2f5f72eaf22"
+    },
+    "context-guard": {
+      "source": "ArvinthSN/Agent-Skills",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/context-guard/SKILL.md",
+      "computedHash": "aa1db6c597613f4e920f0568fa160c4911dd9241c33d7a57d032e6e94f5b698f"
+    },
+    "loop-guard": {
+      "source": "ArvinthSN/Agent-Skills",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/loop-guard/SKILL.md",
+      "computedHash": "75ff67227f776295b2f5e426cae5b1b7eeffbbb2a466d450892e0e5796626c2a"
+    }
+  }
+}
